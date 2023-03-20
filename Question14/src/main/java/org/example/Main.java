@@ -49,12 +49,3 @@ public class Main {
     }
 
 }
-
-
-
-/*
-            for (int j= 0; i < n ; j++)
-                System.out.println("|  |");
-                for (int k= 0; k < n ; k++)
-                    System.out.println("+--+");
- */
